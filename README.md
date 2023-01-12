@@ -1,0 +1,2 @@
+# Boxes
+Collect macos extensions.
